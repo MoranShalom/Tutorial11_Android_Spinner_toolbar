@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">tutorial11_spinner_toolbar</string>
+
+    <string-array name="countries">
+    <item>Israel</item>
+    <item>Australia</item>
+    <item>Brazil</item>
+    <item>China</item>
+    <item>India</item>
+    <item>Italy</item>
+    <item>Mexico</item>
+    <item>USA</item>
+    <item>Spain</item>
+    <item>Ireland</item>
+    </string-array>
+
+</resources>
